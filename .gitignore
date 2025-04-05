@@ -1,0 +1,12 @@
+# Ignore system and IDE files
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Ignore build files
+*.hex
+*.elf
+
+# MacOS system files
+.DS_Store
